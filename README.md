@@ -44,6 +44,7 @@ pit2.0-analysis/
 │   └── 09_comprehensive_summary.R  # Master figures + ethics conclusions
 ├── run_all.R                       # Single entry point — runs everything
 ├── output/                         # All plots, CSVs, tables (auto-created)
+├── pit2.0-research-paper           # Full research paper
 └── README.md                       # This file
 ```
 
