@@ -1,0 +1,6 @@
+metric,value
+M24 rate,91.27199999999999
+CI lower,91.02041175290253
+CI upper,91.51722131745714
+N episodes,50000
+M24 count,45636

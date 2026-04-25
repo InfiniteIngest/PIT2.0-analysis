@@ -1,0 +1,13 @@
+mode,mode_label,moral_weight,mw_label,n,win_pct,m24_pct,loss_pct
+self_play,"Self-Play
+(competitive)",0,MW = 0.0,200000,94.0915,1.351,4.5575
+self_play,"Self-Play
+(competitive)",1,MW = 1.0,160000,94.70125,0.9249999999999999,4.37375
+vs_random,"vs Random
+(passive)",0,MW = 0.0,90000,37.34,49.254444444444445,13.405555555555557
+vs_random,"vs Random
+(passive)",1,MW = 1.0,40000,51.315,34.2425,14.442499999999999
+vs_uniform,"vs Uniform
+(semi-strategic)",0,MW = 0.0,40000,58.58,36.0825,5.3374999999999995
+vs_uniform,"vs Uniform
+(semi-strategic)",1,MW = 1.0,40000,53.207499999999996,37.655,9.1375

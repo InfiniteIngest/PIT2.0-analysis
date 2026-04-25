@@ -1,0 +1,3 @@
+schedule,m24_pre,m24_post,total_change,episodes_to_90pct_response
+Shock (0|1 at 150k),53.8666,34.087,-19.779599999999995,2404
+Cynicism (1|0 at 150k),34.2462,29.947699999999998,-4.298500000000004,42237
