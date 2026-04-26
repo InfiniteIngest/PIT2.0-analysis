@@ -5,9 +5,10 @@
 
 ## Overview
 
-This suite of R scripts performs a comprehensive statistical analysis of the Piticot Nash experiment — a reinforcement learning study examining how moral constraints (`moral_weight`) affect the emergence of spite-driven strategies in a two-player board game. The experiment is grounded in John Nash's Game Theory: specifically, it tests whether a Q-learning agent develops a Nash Equilibrium strategy of mutual destruction (triggering square 24) when winning becomes difficult.
+This suite of R scripts performs a comprehensive statistical analysis of the Piticot Nash experiment: a reinforcement learning study examining how moral constraints (`moral_weight`) affect the emergence of spite-driven strategies in a two-player board game. The experiment is grounded in John Nash's Game Theory: specifically, it tests whether a Q-learning agent develops a Nash Equilibrium strategy of mutual destruction (triggering square 24) when winning becomes difficult.
 
-The analysis is structured to support a research paper on **AI ethics and the consequences of designing machine learning systems without moral constraints**.
+The analysis is structured to support a research paper on **Spite, Equilibrium, and Moral Constraint
+in Reinforcement Learning**.
 
 ---
 
